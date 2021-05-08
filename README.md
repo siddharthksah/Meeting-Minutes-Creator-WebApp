@@ -4,6 +4,6 @@
 
 Have fun! Happy browsing!
 
-![Screenshot](WebApp.png)
+![Screenshot](WebApp.jpeg)
 
 
